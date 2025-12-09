@@ -25,4 +25,4 @@ The AI uses these data to:
 Users:
 * waste-management operators  
 * city administrations  
-* logistics planners  
+* logistics planners
